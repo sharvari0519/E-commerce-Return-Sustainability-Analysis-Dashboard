@@ -4,8 +4,9 @@ Built an interactive E-commerce Return & Sustainability Dashboard using Power BI
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)  
-*To display your dashboard here, save a screenshot of your Power BI dashboard as `dashboard.png` inside the project folder, and push it to GitHub.*
+You can view the full visual layout of the dashboard pages by clicking the PDF link below:
+
+👉 [**View Dashboard Report (PDF)**](ecommerce.pdf)
 
 ---
 
